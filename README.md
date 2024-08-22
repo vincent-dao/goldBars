@@ -1,4 +1,4 @@
-# Fetch SDET Problem
+# Solving Gold Bars balancing game
 
 ## Solution
 
