@@ -8,7 +8,7 @@ The most efficient way to solve this problem is to break the 9 gold bars into 3 
    - If the first group weighs less, then it is this group that contains the fake bar. Otherwise, it would be the other group
 2. From the group that was determined to have the fake bar, weigh one of the bars against another
    - If they weigh the same, then the last bar which was not tested is the fake one
-   - If the first weighs less, tehn it is this bar that is fake. Otherwise, the other bar is fake
+   - If the first weighs less, then it is this bar that is fake. Otherwise, the other bar is fake
 
 ## Set Up
 1. Install [Node.js](https://nodejs.org/en)
